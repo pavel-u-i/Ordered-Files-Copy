@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Ordered files copy" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

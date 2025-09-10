@@ -1,0 +1,27 @@
+# Copyright (C) 2025  Utchev P.I.GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+
+[general]
+name=Ordered files copy
+qgisMinimumVersion=3.0
+description=Средство копирования файлов по ссылкам в атрибутах слоя | Tool for copying files by links in layer attributes
+version=0.1
+author=Utchev Pavel
+email=pavel2001621@gmail.com
+
+about=Этот инструмент копирует файлы, ссылки на которые содержатся в атрибутах объектов слоя, с возможностью иерархичной группировки файлов в соответствии с другими атрибутами объектов слоя. Допустимо использование в отношении объектов слоя, для которых последовательно через разделитель указаны пути для нескольких файлов (без дополнительных знаков выделения, например кавычек). Инструмент имеет графический интерфейс выбора поля атрибутов, содержащего ссылку; интерфейс ввода используемого разделителя, а также интерфейс выбора типа копирования файлов: с иерархичной группировкой или без таковой. В случае группировки активизируется интерфейс создания иерархичной структуры путем выбора полей атрибутов слоя с учетом последовательности их перечисления.| This tool copies files referenced in layer object attributes, with the option to group files hierarchically according to other layer object attributes. It can be used for layer objects for which paths to multiple files are specified sequentially using a separator (without additional delimiters, such as quotation marks). The tool has a graphical interface for selecting the attribute field containing the link, an interface for entering the separator used, and an interface for selecting the type of file copying: with or without hierarchical grouping. In the case of grouping, the interface for creating a hierarchical structure is activated by selecting layer attribute fields, taking into account the sequence in which they are listed.
+
+tracker=https://github.com/pavel-u-i/Ordered-Files-Copy/issues
+repository=https://github.com/pavel-u-i/Ordered-Files-Copy
+
+hasProcessingProvider=no
+
+tags=save, copy, files
+
+homepage=https://github.com/pavel-u-i/Ordered-Files-Copy
+category=Plugins
+icon=icon.png
+
+experimental=False
+
+server=False
+
