@@ -1,4 +1,4 @@
-##Ordered files copy
+## Ordered files copy
 
 If the QGIS plugin ‘Ordered files copy’ proves useful for your research or work, please cite our article. This will help us support our work and allow us to continue developing and maintaining the plugin. For your convenience, here is the link:
 Utchev, P. I. (2025). Ordered files copy - Qgis Plugin. Zenodo. https://doi.org/10.5281/zenodo.17093201
